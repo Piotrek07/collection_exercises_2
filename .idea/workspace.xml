@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b500cda4-1ca8-4397-9f79-9b238a502263" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/Zadanie1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/Zadanie2/Autostrada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/Zadanie2/InformacjeOPojezdzie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/Zadanie2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/Zadanie2/NIeMoznaZnalezdzPojazduExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Maps/Zadanie2/TypPojazdu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Maps/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Maps/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ColectionExercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ColectionExercises.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -113,7 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-14" />
     <option name="y" value="42" />
     <option name="width" value="1380" />
@@ -231,10 +219,18 @@
       <option name="presentableId" value="Default" />
       <updated>1559995945740</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1560002295264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560002295265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -245,7 +241,7 @@
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.24962178" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -264,6 +260,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/.gitignore">
